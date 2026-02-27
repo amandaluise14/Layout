@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(253, 124, 167);
+}
+.yooo{
+    padding: 200;
+    margin: 20;
+    background-color: rgb(107, 170, 117);
+}
+.yoo{
+    padding: 100;
+    margin: 20;
+    margin-right: 895;
+    background-color: rgb(107, 170, 117);
+}
+.yo{
+    padding: 150;
+    margin: 20;
+    background-color: rgb(107, 170, 117);
+}
+.flex{
+    display: flex;
+}
