@@ -1,31 +1,24 @@
 body{
     background-color: rgb(253, 124, 167);
 }
-.yo1{
+.yo{
     padding: 130;
-    margin: 40;
-    margin-top: 10;
-    background-color: rgb(107, 170, 117);
-}
-.yoo1{
-    padding: 100;
-    margin: 40;
-    margin-right: 920;
-    background-color: rgb(107, 170, 117);
-}
-.yo2{
-    padding: 130;
-    margin: 40;
-    margin-top: 10;
-    background-color: rgb(107, 170, 117);
-}
-.yoo2{
-    padding: 130;
-    padding-left: 470;
-    margin: 40;
-    margin-top: 10;
+    margin: 30;
     background-color: rgb(107, 170, 117);
 }
 .flex{
     display: flex;
+}
+
+.red{
+    padding-right: 450px;
+    background-color: rgb(107, 170, 117);
+}
+.yellow{
+    padding-bottom: 670px;
+    background-color: rgb(107, 170, 117);
+}
+.blue{
+    padding-bottom: 350;
+    background-color: rgb(107, 170, 117);
 }
