@@ -29,3 +29,8 @@ body{
    margin-right: 30;
    background-color: rgb(107, 170, 117);
 }
+.white{
+    padding-right: 450px;
+    background-color: rgb(253, 124, 167);
+    margin-top: 0;
+}
