@@ -1,5 +1,14 @@
 body{
     background-color: rgb(253, 124, 167);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#navbar{
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(107, 170, 117);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
 }
 .yo{
     padding: 130;
