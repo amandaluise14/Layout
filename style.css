@@ -23,6 +23,11 @@ body{
     margin-top: 40;
     background-color: rgb(107, 170, 117);
 }
+.bluee{
+    padding-bottom: 440;
+    margin-top: 40;
+    background-color: rgb(107, 170, 117);
+}
 .pink{
    padding: 130;
    padding-top: 350;
@@ -34,8 +39,12 @@ body{
     background-color: rgb(253, 124, 167);
     margin-top: 0;
 }
-
 .purple{
     margin-right: 405;
+    background-color: rgb(107, 170, 117);
+}
+.green{
+    padding-bottom: 430px;
+    margin-top: 320px;
     background-color: rgb(107, 170, 117);
 }
